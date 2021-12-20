@@ -196,6 +196,5 @@ wrapt==1.13.3
 wurlitzer==3.0.2
 xdg==5
 
-yapf==0.31.0
-zipp==1.0.0
+
 
