@@ -181,7 +181,7 @@ traitlets==5.1.1
 typing_extensions==4.0.1
 
 ujson==4.3.0
-unattended-upgrades==0.1
+
 urllib3==1.26.5
 usb-creator==0.3.7
 utm==0.7.0
