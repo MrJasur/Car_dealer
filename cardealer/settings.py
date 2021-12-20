@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-z7z_mdpcr1!d3c50*!^h23*akt#*m#02%2mz8v!7z8)@s3g#@q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'cardealerdjango.herokuapp.com/']
 
 
 # Application definition
